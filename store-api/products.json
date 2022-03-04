@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Customer HRM",
+        "price": 230000,
+        "company": "Workfleek",
+        "rating": 4.8,
+        "featured": true
+    },
+    {
+        "name": "Cloud ECP",
+        "price": 130000,
+        "company": "Machini",
+        "rating": 4.3,
+        "featured": false
+    },
+    {
+        "name": "Bizup Client App",
+        "price": 20000,
+        "company": "Bizup",
+        "rating": 4.8,
+        "featured": true
+    },
+    {
+        "name": "Hawi Website",
+        "price": 30000,
+        "company": "Hawi",
+        "rating": 4.8,
+        "featured": true
+    },
+    {
+        "name": "Cloud Insurance SAAS",
+        "price": 450000,
+        "company": "Click2Sure",
+        "rating": 4.8,
+        "featured": false
+    },
+    {
+        "name": "Community Website",
+        "price": 50000,
+        "company": "Workfleek",
+        "rating": 4.8,
+        "featured": false
+    },
+    {
+        "name": "Company Websites",
+        "price": 45000,
+        "company": "Click2Sure",
+        "rating": 4.8,
+        "featured": true
+    },
+    {
+        "name": "Hosting Panel",
+        "price": 12500,
+        "company": "Bizup",
+        "rating": 4.8,
+        "featured": true
+    },
+    {
+        "name": "NGO Website",
+        "price": 4500,
+        "company": "Machini",
+        "rating": 4.8,
+        "featured": false
+    }
+]
